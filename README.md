@@ -1,6 +1,7 @@
 # Automotive-Data-Analysis-Competition
 2024 자동차 데이터 분석 경진대회
 
+## 결과 : 2등(최우수상)
 ![image](https://github.com/user-attachments/assets/3f636169-6ec2-4df8-8168-0c18f4e59e78)
 
 
